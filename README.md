@@ -1,4 +1,4 @@
-# SocialMediaSentiment
+# Social Media Sentiment
 
 Work In Progress :)
 
